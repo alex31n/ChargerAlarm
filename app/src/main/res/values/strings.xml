@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Charger Alarm</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="notify_low_title">Battery is Low</string>
+    <string name="notify_low_msg">Please plug charger to your device.</string>
+
+    <string name="notify_full_title">Battery is Full</string>
+    <string name="notify_full_msg">Please unplug charger to saving energy.</string>
+</resources>
